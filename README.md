@@ -27,7 +27,10 @@
 # 📌 Projets
 
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
-[Pitch.pptx](https://github.com/user-attachments/files/18725817/Pitch.pptx)
+
+
+https://github.com/user-attachments/assets/f9712e23-5b63-4922-be0e-b7f0f2af51ca
+
 
 - **Sujet:** L'objectif de ce hackaton était de créer un agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
 - **Outils:** Python, LLM, Amazon Bedrock, Mistral AI, HTML, Streamlit, API Géorisques
