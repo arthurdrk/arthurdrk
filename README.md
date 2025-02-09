@@ -10,7 +10,7 @@
 
 # À propos de moi
 
-🎓 Étudiant en ingénierie à l'**ENSAE Paris** et en mathématiques **Magistère de Mathématiques Fondamentales d’Orsay**  
+🎓 Étudiant en ingénierie à l'**ENSAE Paris** et en mathématiques au **Magistère de Mathématiques Fondamentales d’Orsay**  
 📍 Paris, France  
 💡 Passionné par l'**IA**, les **maths appliquées**, et l’**optimisation**  
 
