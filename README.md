@@ -11,7 +11,7 @@
 # 🚀 À propos de moi
 
 🎓 Étudiant en ingénierie à **ENSAE Paris** et au **Magistère de Mathématiques Fondamentales d’Orsay**  
-📍 Paris, France
+📍 Paris, France  
 💡 Passionné par l'**IA**, les **maths appliquées**, et l’**optimisation**  
 
 ---
@@ -20,7 +20,7 @@
 
 - **Langages** : Python 🐍, R 📊, SQL 🛢️, SAS 📈, LaTeX ✍️
 - **Outils & Frameworks** : TensorFlow, PyTorch, Scikit-Learn, Pandas
-- **Langues** : Français 🇫🇷 (natif), Anglais 🇬🇧 (C1+), Espagnol 🇪🇸 (intermédiaire)
+- **Langues** : Français (natif), Anglais (C1+), Espagnol (intermédiaire)
 
 ---
 
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 
 https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf
 
-- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours.
+- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
 - **Outils:** Python
 ---
 
