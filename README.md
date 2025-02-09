@@ -24,15 +24,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDeRouck&show_icons=true&theme=radical&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurDeRouck&theme=radical" />
-</p>
-
----
-
 ### 📌 Projets
 
 🔹 **[Challenge Data ENS](https://github.com/ArthurDeRouck/Challenge-Data-ENS)** 🏆 (1ère place)  
