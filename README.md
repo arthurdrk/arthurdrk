@@ -33,9 +33,9 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 - **Outils:** Python, LLM, Amazon Bedrock, Mistral AI, HTML, Streamlit, API Géorisques
 
 ## ⚽ Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />
+<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />  
 
-https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf
+[PDF de la présentation du TIPE](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
 
 - **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
 - **Outils:** Python
