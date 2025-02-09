@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArthurDeRouck&label=Profile+Views&color=blue" alt="Profile Views" />
-  <a href="https://linkedin.com/in/arthur-de-rouck"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:arthur.derouck@ensae.fr"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
 
@@ -28,7 +28,7 @@
 
 🔹 **[Challenge Data ENS](https://github.com/arthurdrk/Challenge-Data-ENS)** 🏆 (1ère place)  
 🔹 **[H-GenAI Hackathon](https://github.com/arthurdrk/H-GenAI)** 🏅 (2e place)  
-🔹 **[Projet TIPE](https://github.com/arthurdrk/TIPE)** 🎯 (20/20 aux concours)  
+🔹 **[Projet TIPE](https://github.com/arthurdrk/TIPE)** 🎯 (Noté 20/20 aux concours)  
 
 📂 **Retrouvez tous mes projets [ici](https://github.com/arthurdrk?tab=repositories)** 🚀
 
@@ -37,4 +37,4 @@
 ### 📬 Me Contacter
 
 📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
-🔗 **LinkedIn** : [Arthur De Rouck](https://linkedin.com/in/arthur-de-rouck)  
+🔗 **LinkedIn** : [Arthur De Rouck](https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/)  
