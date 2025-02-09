@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
   <a href="mailto:arthur.derouck@ensae.fr"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
-<img width="452" alt="ecorisk" src="https://github.com/user-attachments/assets/8476ca44-a27d-49e8-b65b-936121bf1d03" />
 
 ---
 
@@ -27,7 +26,7 @@
 
 # 📌 Projets
 
-## 🎵 H-GenAI Hackaton : ecorisk.ai
+## 🗺️ H-GenAI Hackaton : ecorisk.ai
 <img width="300" alt="ecorisk" src="https://github.com/user-attachments/assets/2073d626-bffa-40d3-b46a-d3f073a9b7b5" />
 
 - **Sujet:** L'objectif de ce hackaton était de créer un agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
