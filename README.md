@@ -26,11 +26,11 @@
 
 ### 📌 Projets
 
-🔹 **[Challenge Data ENS](https://github.com/ArthurDeRouck/Challenge-Data-ENS)** 🏆 (1ère place)  
-🔹 **[H-GenAI Hackathon](https://github.com/ArthurDeRouck/H-GenAI)** 🏅 (2e place)  
-🔹 **[Projet TIPE](https://github.com/ArthurDeRouck/TIPE)** 🎯 (20/20 aux concours)  
+🔹 **[Challenge Data ENS](https://github.com/arthurdrk/Challenge-Data-ENS)** 🏆 (1ère place)  
+🔹 **[H-GenAI Hackathon](https://github.com/arthurdrk/H-GenAI)** 🏅 (2e place)  
+🔹 **[Projet TIPE](https://github.com/arthurdrk/TIPE)** 🎯 (20/20 aux concours)  
 
-📂 **Retrouvez tous mes projets [ici](https://github.com/ArthurDeRouck?tab=repositories)** 🚀
+📂 **Retrouvez tous mes projets [ici](https://github.com/arthurdrk?tab=repositories)** 🚀
 
 ---
 
