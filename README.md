@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 À propos de moi
+# 🚀 À propos de moi
 
 🎓 Étudiant en ingénierie à **ENSAE Paris** et au **Magistère de Mathématiques Fondamentales d’Orsay**  
 📍 **Paris, France**  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🏆 Compétences
+# 🏆 Compétences
 
 - **Langages** : Python 🐍, R 📊, SQL 🛢️, SAS 📈, LaTeX ✍️
 - **Outils & Frameworks** : TensorFlow, PyTorch, Scikit-Learn, Pandas
@@ -24,17 +24,17 @@
 
 ---
 
-### 📌 Projets
+# 📌 Projets
 
-🔹 **[Challenge Data ENS](https://github.com/arthurdrk/Challenge-Data-ENS)** 🏆 (1ère place)  
-🔹 **[H-GenAI Hackathon](https://github.com/arthurdrk/H-GenAI)** 🏅 (2e place)  
-🔹 **[Projet TIPE](https://github.com/arthurdrk/TIPE)** 🎯 (Noté 20/20 aux concours)  
+## 🎵 H-GenAI Hackaton : ecorisk.ai
+![ecorisk](https://imgur.com/a/9j5aZZ9)
+- **Sujet:** L'objectif de ce hackaton était de créer un agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
+- **Outils:** Python, LLM, Amazon Bedrock, Mistral AI, HTML, Streamlit, API Géorisques
 
-📂 **Retrouvez tous mes projets [ici](https://github.com/arthurdrk?tab=repositories)** 🚀
 
 ---
 
-### 📬 Me Contacter
+# 📬 Me Contacter
 
 📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
 🔗 **LinkedIn** : [Arthur De Rouck](https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/)  
