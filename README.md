@@ -32,7 +32,11 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 - **Sujet:** L'objectif de ce hackaton était de créer un agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
 - **Outils:** Python, LLM, Amazon Bedrock, Mistral AI, HTML, Streamlit, API Géorisques
 
+## 🗺️ Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
+<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />
 
+- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours.
+- **Outils:** Python
 ---
 
 # 📬 Me Contacter
