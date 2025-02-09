@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 À propos de moi
+# À propos de moi
 
 🎓 Étudiant en ingénierie à **ENSAE Paris** et au **Magistère de Mathématiques Fondamentales d’Orsay**  
 📍 Paris, France  
@@ -16,7 +16,7 @@
 
 ---
 
-# 🏆 Compétences
+# Compétences
 
 - **Langages** : Python 🐍, R 📊, SQL 🛢️, SAS 📈, LaTeX ✍️
 - **Outils & Frameworks** : TensorFlow, PyTorch, Scikit-Learn, Pandas
@@ -24,7 +24,7 @@
 
 ---
 
-# 📌 Projets
+# Projets
 
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
 https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 - **Outils:** Python
 ---
 
-# 📬 Me Contacter
+# Me Contacter
 
 📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
 🔗 **LinkedIn** : [Arthur De Rouck](https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/)  
