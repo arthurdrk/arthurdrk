@@ -16,14 +16,6 @@
 
 ---
 
-# Compétences
-
-- **Langages** : Python 🐍, R 📊, SQL 🛢️, SAS 📈, LaTeX ✍️
-- **Outils & Frameworks** : TensorFlow, PyTorch, Scikit-Learn, Pandas
-- **Langues** : Français (natif), Anglais (C1+), Espagnol (intermédiaire)
-
----
-
 # Projets
 
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
