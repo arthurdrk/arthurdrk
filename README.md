@@ -19,13 +19,7 @@
 # Projets
 
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
-<video src='https://github.com/user-attachments/assets/d5298280-fc5e-41c8-8165-40744f35e73e' width=180/>
-
-
-
-
-
-
+<video src='https://github.com/user-attachments/assets/d5298280-fc5e-41c8-8165-40744f35e73e' width=50/>
 
 - **Sujet:**  Agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. Réalisé dans le cadre du hackaton H-GenAI organisé par Sia Partners, en collaboration avec AWS, Mistral AI et NVIDIA. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
 - **Outils:** Python, Mistral Large 2, Amazon Bedrock, HTML, Streamlit, API Géorisques
