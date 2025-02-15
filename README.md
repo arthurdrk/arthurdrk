@@ -49,7 +49,13 @@ https://github.com/user-attachments/assets/26a47941-3ace-4f7a-90ad-1947b8d96454
 
 - **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet](https://github.com/arthurdrk/Lien-travail-bonheur).
 - **Outils:** SAS, TeX
+---
+## 📊 Prédiction du niveau des nappes phréatiques - Hackaton HI!PARIS
+<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/9dd2524b-f770-4cd9-a6f9-5f571f7ceb21" />
 
+- **Sujet:** Prédiction du niveau des nappes phréatiques en été pour aider les acteurs locaux à gérer leurs stocks d'eau. Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. [Lien vers le projet](https://github.com/arthurdrk/HI-PARIS-Hackaton).
+- **Outils:** Python, Scikit-Learn, TeX
+---
 # Me Contacter
 
 📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
