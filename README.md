@@ -19,7 +19,7 @@
 # Projets
 
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
-<iframe width="458" src="https://www.youtube.com/embed/0nsspEnsuaw"></iframe>
+<video src='https://www.youtube.com/embed/0nsspEnsuaw' width=180/>
 
 
 
