@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/26a47941-3ace-4f7a-90ad-1947b8d96454
 - **Outils:** SAS, TeX
 ---
 ## 💧 Prédiction du niveau des nappes phréatiques - Hackaton HI!PARIS
-<img width="400" alt="Suivi" src="https://github.com/user-attachments/assets/5415db5a-984d-482f-9b1c-cc9a9abeb809" />
+<img width="300" alt="Suivi" src="https://github.com/user-attachments/assets/5415db5a-984d-482f-9b1c-cc9a9abeb809" />
 
 - **Sujet:** Prédiction du niveau des nappes phréatiques en été pour aider les acteurs locaux à gérer leurs stocks d'eau. Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. [Lien vers le projet](https://github.com/arthurdrk/HI-PARIS-Hackaton).
 - **Outils:** Python, Scikit-Learn, TeX
