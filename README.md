@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 - **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
 
 ---
-## 📊 Statistiques descriptives avec SAS : analyse du lien entre le travail et le bonheur
+## 📊 Statistiques descriptives avec SAS : analyse du lien entre travail et bonheur
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
 - **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet](https://github.com/arthurdrk/Lien-travail-bonheur).
