@@ -33,9 +33,9 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 - **Outils:** Python, TeX
 ---
 ## 📊 Statistiques descriptives avec SAS : existe-t-il un lien entre le travail et le bonheur ?
-![Lien-social-entreprises-c-Good-Studio](https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b)
+<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
-- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet]([https://github.com/arthurdrk/H-GenAI-Hackaton](https://github.com/arthurdrk/Lien-travail-bonheur))
+- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet][https://github.com/arthurdrk/H-GenAI-Hackaton](https://github.com/arthurdrk/Lien-travail-bonheur)
 - **Outils:** SAS, TeX
 # Me Contacter
 
