@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/26a47941-3ace-4f7a-90ad-1947b8d96454
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/99cbaece-277f-4547-a41a-fee3f9108b70" />  
 
 
-- **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e à la date du 15/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
+- **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e/50 à la date du 15/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 - **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
 
 ---
