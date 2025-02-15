@@ -1,4 +1,4 @@
-<h1> 👋 Arthur De Rouck</h1>
+<h1> Arthur De Rouck</h1>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ArthurDeRouck&label=Profile+Views&color=blue" alt="Profile Views" />
@@ -29,10 +29,14 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 
 [PDF de la présentation du TIPE](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
 
-- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
-- **Outils:** Python
+- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours d'entrée aux grandes écoles d'ingénieurs. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
+- **Outils:** Python, TeX
 ---
+## 📊 Statistiques descriptives avec SAS : existe-t-il un lien entre le travail et le bonheur ?
+![Lien-social-entreprises-c-Good-Studio](https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b)
 
+- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet]([https://github.com/arthurdrk/H-GenAI-Hackaton](https://github.com/arthurdrk/Lien-travail-bonheur))
+- **Outils:** SAS, TeX
 # Me Contacter
 
 📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
