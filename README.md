@@ -22,7 +22,7 @@
 https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 
 - **Sujet:** L'objectif de ce hackaton était de créer un agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de Sfil concernant les risques environnementaux. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
-- **Outils:** Python, LLM, Amazon Bedrock, Mistral AI, HTML, Streamlit, API Géorisques
+- **Outils:** Python, Mistral Large 2, Amazon Bedrock, HTML, Streamlit, API Géorisques
 
 ## ⚽ Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />  
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/9f6a8411-f5ec-49c8-a811-362035304e26
 ## 📊 Statistiques descriptives avec SAS : existe-t-il un lien entre le travail et le bonheur ?
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
-- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet][https://github.com/arthurdrk/H-GenAI-Hackaton](https://github.com/arthurdrk/Lien-travail-bonheur)
+- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet](https://github.com/arthurdrk/Lien-travail-bonheur).
 - **Outils:** SAS, TeX
 # Me Contacter
 
