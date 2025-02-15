@@ -36,7 +36,8 @@ https://github.com/user-attachments/assets/26a47941-3ace-4f7a-90ad-1947b8d96454
 ---
 
 ## 🚄 Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/99cbaece-277f-4547-a41a-fee3f9108b70" />  
+<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
+
 
 
 - **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e/50 à la date du 15/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
