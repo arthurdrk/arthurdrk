@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
 - **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours d'entrée aux grandes écoles d'ingénieurs. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
 - **Outils:** Python, TeX
-- 
+  
 ---
 
 ## 🚄 Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
