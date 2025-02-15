@@ -31,11 +31,16 @@ https://github.com/user-attachments/assets/26a47941-3ace-4f7a-90ad-1947b8d96454
 
 - **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours d'entrée aux grandes écoles d'ingénieurs. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
 - **Outils:** Python, TeX
+- 
 ---
+
 ## 🚄 Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/99cbaece-277f-4547-a41a-fee3f9108b70" />  
+
+
 - **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e à la date du 15/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 - **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
+
 ---
 ## 📊 Statistiques descriptives avec SAS : existe-t-il un lien entre le travail et le bonheur ?
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
