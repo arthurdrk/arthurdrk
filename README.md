@@ -11,7 +11,7 @@
 
 🎓 Étudiant en mathématiques et data science à l'**ENSAE Paris** et au **Magistère de Mathématiques Fondamentales d’Orsay**.  
 📍 Paris, France.  
-💡 Passionné par l'**IA**, les **maths appliquées**, et l’**optimisation**.  
+💡 Passionné par les **mathématiques**, le **ML**, et l’**optimisation**.  
 
 ---
 
