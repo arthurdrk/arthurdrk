@@ -18,13 +18,6 @@
 # Projets
 
 ---
-## 🗺️ Jeu d'appariement sur une grille (work in progress)
-<img width="458" alt="graph" src="https://github.com/user-attachments/assets/adf53acc-b247-4caa-9c95-888924a0ba12" />
-
-- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Je d'appariement de cases sur une grille, les règles sont détaillées dans le README.[Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
-- **Outils:** Python, matplotlib
-
----
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
 
 
@@ -64,6 +57,13 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
 - **Sujet:** Prédiction du niveau des nappes phréatiques en été pour aider les acteurs locaux à gérer leurs stocks d'eau. Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. [Lien vers le projet](https://github.com/arthurdrk/HI-PARIS-Hackaton).
 - **Outils:** Python, Scikit-Learn, TeX
+---
+
+## 🗺️ Jeu d'appariement sur une grille (en cours)
+<img width="458" alt="graph" src="https://github.com/user-attachments/assets/adf53acc-b247-4caa-9c95-888924a0ba12" />
+
+- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Je d'appariement de cases sur une grille, les règles sont détaillées dans le README.[Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
+- **Outils:** Python, matplotlib
 ---
 # Me Contacter
 
