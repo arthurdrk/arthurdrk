@@ -5,13 +5,6 @@
   <a href="mailto:arthur.derouck@ensae.fr"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
 
----
-
-# À propos de moi
-
-🎓 Étudiant en mathématiques et data science à l'**ENSAE Paris** et au **Magistère de Mathématiques Fondamentales d’Orsay**.  
-📍 Paris, France.  
-💡 Intéressé par les **mathématiques** et le **ML**.
 
 ---
 
