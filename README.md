@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 ## 🏁 Jeu d'appariement sur une grille (en cours)
 <img width="458" alt="graph" src="https://github.com/user-attachments/assets/adf53acc-b247-4caa-9c95-888924a0ba12" />
 
-- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Je d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
+- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
 - **Outils:** Python, matplotlib
 ---
 # Me Contacter
