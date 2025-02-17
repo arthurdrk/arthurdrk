@@ -10,7 +10,6 @@
 
 # Projets
 
----
 ## 🗺️ H-GenAI Hackaton : ecorisk.ai
 
 
