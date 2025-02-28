@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
 
 
-- **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e/155 à la date du 28/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
+- **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 2e/156 à la date du 28/02/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 - **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
 
 ---
@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 <img width="458" alt="graph" src="https://github.com/user-attachments/assets/adf53acc-b247-4caa-9c95-888924a0ba12" />
 
 - **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
-- **Outils:** Python, matplotlib
+- **Outils:** Python, matplotlib, pygame
 ---
 # Me Contacter
 
