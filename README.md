@@ -13,7 +13,7 @@
 
 **Data Science & Analyse de données**  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-009DDC?style=for-the-badge&logo=sas&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-1EB6AC?style=for-the-badge&logo=geopandas&logoColor=white)
