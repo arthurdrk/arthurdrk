@@ -10,38 +10,41 @@
 </p>
 
 ## Langages et outils 
-
 **Data Science & Analyse de données**
+
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-276DC3?style=for-the-badge&logo=sas&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-276DC3?style=for-the-badge&logo=geopandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-276DC3?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-276DC3?style=for-the-badge&logo=scipy&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-1E90FF?style=for-the-badge&logo=geopandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-3A86FF?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-276DC3?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-276DC3?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-276DC3?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-276DC3?style=for-the-badge&logo=dash&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-00BFFF?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-1E90FF?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-3A86FF?style=for-the-badge&logo=dash&logoColor=white)
 
 **Machine Learning & Deep Learning**
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFA500?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF6F00?style=for-the-badge&logo=keras&logoColor=white)
-![Huggingface](https://img.shields.io/badge/Huggingface-FF6F00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Keras](https://img.shields.io/badge/Keras-FF8C00?style=for-the-badge&logo=keras&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Huggingface-FFA500?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=yolo)
 
 **Développement**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-3776AB?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-3776AB?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-5A9BD5?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-4A90E2?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Web & traitement de texte**
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-E34F26?style=for-the-badge&logo=css&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-F06292?style=for-the-badge&logo=css&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-E34F26?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
