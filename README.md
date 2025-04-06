@@ -32,6 +32,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Huggingface](https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
+![AutoGluon](https://img.shields.io/badge/AutoGluon-1C3AA9?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Développement**
 
