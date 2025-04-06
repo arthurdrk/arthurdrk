@@ -13,39 +13,39 @@
 **Data Science & Analyse de données**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-3A86FF?style=for-the-badge&logo=mysql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-00BFFF?style=for-the-badge&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-1E90FF?style=for-the-badge&logo=geopandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-00BFFF?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-3A86FF?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-276DC3?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-00BFFF?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-1E90FF?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-3A86FF?style=for-the-badge&logo=dash&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0098CE?style=for-the-badge&logo=sas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-3A86FF?style=for-the-badge&logo=geopandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-4D77CF?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-5A6BBE?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B77BE?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-6E40AA?style=for-the-badge&logo=dash&logoColor=white)
 
 **Machine Learning & Deep Learning**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFA500?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF8C00?style=for-the-badge&logo=keras&logoColor=white)
-![Huggingface](https://img.shields.io/badge/Huggingface-FFA500?style=for-the-badge&logo=huggingface&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=yolo)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Huggingface](https://img.shields.io/badge/Huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-FF0000?style=for-the-badge&logo=yolo&logoColor=white)
 
 **Développement**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-4A90E2?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-5A9BD5?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-4A90E2?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Web & traitement de texte**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-F06292?style=for-the-badge&logo=css&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-E34F26?style=for-the-badge&logo=latex&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 # Projets
@@ -96,5 +96,5 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 ---
 # Me Contacter
 
-📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
+📧 **Mail** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
 🔗 **LinkedIn** : [Arthur De Rouck](https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/)  
