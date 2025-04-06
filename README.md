@@ -9,8 +9,7 @@
   </a>
 </p>
 
-## Langages et outils :
-Voici une organisation cohérente des badges, regroupés par catégories et ordonnés logiquement :
+## Langages et outils 
 
 **Data Science & Analyse de données**  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
