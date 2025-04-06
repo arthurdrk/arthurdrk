@@ -5,7 +5,7 @@
   <a href="mailto:arthur.derouck@ensae.fr"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
 
-## 🛠️ Tech Stack
+## Langages et outils :
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
