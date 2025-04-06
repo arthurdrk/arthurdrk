@@ -30,7 +30,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFA500?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-FF8C00?style=for-the-badge&logo=keras&logoColor=white)
-![Huggingface](https://img.shields.io/badge/Huggingface-FFA500?style=for-the-badge&logo=huggingface&logoColor=black)
+![Huggingface](https://img.shields.io/badge/Huggingface-FFA500?style=for-the-badge&logo=huggingface&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=yolo)
 
 **Développement**
