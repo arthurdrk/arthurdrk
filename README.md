@@ -12,10 +12,6 @@
 ## Langages et outils :
 Voici une organisation cohérente des badges, regroupés par catégories et ordonnés logiquement :
 
-**Langages & Écosystème Principal**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 **Data Science & Analyse de données**  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
