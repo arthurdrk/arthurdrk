@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
 
 
-- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique en première année à l'ENSAE Paris. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
+- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique de première année à l'ENSAE Paris. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
 - **Outils:** Python, matplotlib, pygame
 ---
 ## 📊 Statistiques descriptives avec SAS : analyse du lien entre travail et bonheur
