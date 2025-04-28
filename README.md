@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 - **Outils:** Python, Mistral Large 2, Amazon Bedrock, HTML, Streamlit, API Géorisques
   
 ---
-## ⚽ Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
+## Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />  
 
 [PDF de la présentation du TIPE](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
@@ -70,26 +70,26 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
   
 ---
 
-## 🚄 Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
+## Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
 
 - **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 4e/406 à la date du 22/03/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 - **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
 ---
-## 🏁 Color Grid Game 
+## Color Grid Game 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
 
 
 - **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique de première année à l'ENSAE Paris. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
 - **Outils:** Python, matplotlib, pygame
 ---
-## 📊 Statistiques descriptives avec SAS : analyse du lien entre travail et bonheur
+## Statistiques descriptives avec SAS : analyse du lien entre travail et bonheur
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
 - **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet](https://github.com/arthurdrk/Lien-travail-bonheur).
 - **Outils:** SAS, TeX
 ---
-## 💧 Prédiction du niveau des nappes phréatiques - Hackaton HI!PARIS
+## Prédiction du niveau des nappes phréatiques - Hackathon HI!PARIS
 <img width="300" alt="Suivi" src="https://github.com/user-attachments/assets/5415db5a-984d-482f-9b1c-cc9a9abeb809" />
 
 - **Sujet:** Prédiction du niveau des nappes phréatiques en été pour aider les acteurs locaux à gérer leurs stocks d'eau. Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. [Lien vers le projet](https://github.com/arthurdrk/HI-PARIS-Hackaton).
