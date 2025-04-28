@@ -51,7 +51,7 @@
 ---
 # Projets
 
-## 🗺️ H-GenAI Hackathon : ecorisk.ai
+## H-GenAI Hackathon : ecorisk.ai
 
 
 https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
