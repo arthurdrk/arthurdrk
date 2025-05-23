@@ -73,8 +73,9 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 ## Challenge Data ENS 2025 
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
 
-- **Challenge Crédit Agricole:** Prédiction de la prime d'assurance. Classé 3e/190
-- **Challenge SNCF Transilien:** Prédiction du temps de retard des trains. Classé 4e/406 à la date du 22/03/2025. Outils Python, AutoGluon, Scikit-Learn, Pandas [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
+- **Challenge Crédit Agricole:** Prédiction de la prime d'assurance. Classé 3e/192. Récompensé et présentation du projet à la direction de Crédit Agricole Assurances.
+
+- **Challenge SNCF Transilien:** Prédiction du temps de retard des trains. Classé 4e/413. Outils Python, AutoGluon, Scikit-Learn, Pandas [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 ---
 ## Color Grid Game 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
