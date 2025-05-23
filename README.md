@@ -1,7 +1,7 @@
 <h1> Arthur De Rouck</h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/">
+  <a href="https://www.linkedin.com/in/arthur-de-rouck/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   <a href="mailto:arthur.derouck@ensae.fr">
@@ -70,11 +70,11 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
   
 ---
 
-## Challenge Data ENS 2025 : Prédiction du temps d'attente à quai
+## Challenge Data ENS 2025 
 <img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
 
-- **Sujet:** Sujet proposé par SNCF Transilien dans le cadre du Challenge Data ENS 2025. Classé 4e/406 à la date du 22/03/2025.  [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
-- **Outils:** Python, AutoGluon, Scikit-Learn, Pandas
+- **Challenge Crédit Agricole:** Prédiction de la prime d'assurance. Classé 3e/190
+- **Challenge SNCF Transilien:** Prédiction du temps de retard des trains. Classé 4e/406 à la date du 22/03/2025. Outils Python, AutoGluon, Scikit-Learn, Pandas [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
 ---
 ## Color Grid Game 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
