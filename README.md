@@ -10,56 +10,58 @@
 </p>
 
 ---
-# Projets
+# Projects
 
-## H-GenAI Hackathon : ecorisk.ai
-
+## H-GenAI Hackathon: ecorisk.ai
 
 https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
-- **Sujet:**  Agent conversationnel qui donne accès à une visualisation de données publiques (INSEE, DGFIP) et de données Sfil concernant les risques environnementaux. Réalisé en 48h dans le cadre du hackaton H-GenAI organisé par Sia Partners, en collaboration avec AWS, Mistral AI et NVIDIA. Notre équipe a été classée seconde sur ce use case. [Lien vers le projet](https://github.com/arthurdrk/H-GenAI-Hackaton)
-- **Outils:** Python, Mistral Large 2, Amazon Bedrock, HTML, Streamlit, API Géorisques
+- **Topic:** Conversational agent providing access to visualizations of public data (INSEE, DGFIP) and Sfil data regarding environmental risks. Developed in 48 hours during the H-GenAI hackathon organized by Sia Partners, in collaboration with AWS, Mistral AI, and NVIDIA. Our team ranked second on this use case. [Project link](https://github.com/arthurdrk/H-GenAI-Hackaton)
+- **Tools:** Python, Mistral Large 2, Amazon Bedrock, HTML, Streamlit, API Géorisques
   
 ---
-## Projet de TIPE : Algorithme de suivi d'objets pour l'analyse des mouvements
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />  
+## TIPE Project: Object Tracking Algorithm for Motion Analysis
+<img width="458" alt="Tracking" src="https://github.com/user-attachments/assets/1abec784-df9c-419a-b4e8-6a6e7120ed38" />  
 
-[PDF de la présentation du TIPE](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
+[TIPE Presentation PDF](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
 
-- **Sujet:** Application d'une technique de segmentation d'image par contours actifs paramétriques (Kass et al., Active contour models) pour l'analyse des mouvements. Noté 20/20 à l'issue des concours d'entrée aux grandes écoles d'ingénieurs. [Lien vers le projet](https://github.com/arthurdrk/TIPE-active-contours)  
-- **Outils:** Python, TeX
+- **Topic:** Application of image segmentation using parametric active contour models (Kass et al., *Active Contour Models*) for motion analysis. Awarded a perfect score (20/20) during the French competitive entrance exams for engineering schools. [Project link](https://github.com/arthurdrk/TIPE-active-contours)  
+- **Tools:** Python, TeX
   
 ---
 
-## Challenge Data ENS 2025 
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
+## ENS Data Challenge 2025 
+<img width="458" alt="Challenge" src="https://github.com/user-attachments/assets/048da365-817a-40da-88d7-da330fb4feef" />
 
-- **Challenge Crédit Agricole:** Prédiction de la prime d'assurance. Classé 3e/511. Récompensé et présentation du projet à la direction de Crédit Agricole Assurances.
+- **Crédit Agricole Challenge:** Insurance premium prediction. Ranked 3rd/511. Project rewarded and presented to Crédit Agricole Assurances management.  
 
-- **Challenge SNCF Transilien:** Prédiction du temps de retard des trains. Classé 4e/413. Outils Python, AutoGluon, Scikit-Learn, Pandas [Lien vers le projet](https://github.com/arthurdrk/SNCF-Data-Challenge).
-  
-- **Challenge QRT:** Prédiction de Survie Globale de patients atteints de Leucémie Myéloïde. Classé 139e/437. Outils Python, AutoGluon, Scikit-Learn, Pandas [Lien vers le projet](https://github.com/arthurdrk/QRT-Challenge-2025)
+- **SNCF Transilien Challenge:** Train delay prediction. Ranked 4th/413. Tools: Python, AutoGluon, Scikit-Learn, Pandas [Project link](https://github.com/arthurdrk/SNCF-Data-Challenge).  
+
+- **QRT Challenge:** Overall survival prediction of patients with Acute Myeloid Leukemia. Ranked 139th/437. Tools: Python, AutoGluon, Scikit-Learn, Pandas [Project link](https://github.com/arthurdrk/QRT-Challenge-2025)  
+
 ---
 ## Color Grid Game 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
 
+- **Topic:** Programming project completed during the first-year algorithmics course at ENSAE Paris. Awarded 20/20. Grid-based matching game; rules detailed in the README. [Project link](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)  
+- **Tools:** Python, matplotlib, pygame  
 
-- **Sujet:**  Projet de programmation réalisé dans le cadre du cours d'algorithmique de première année à l'ENSAE Paris, noté 20/20. Jeu d'appariement de cases sur une grille, les règles sont détaillées dans le README. [Lien vers le projet](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)
-- **Outils:** Python, matplotlib, pygame
 ---
-## Statistiques descriptives avec SAS : analyse du lien entre travail et bonheur
-<img width="458" alt="Suivi" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
+## Descriptive Statistics with SAS: Relationship Between Work and Happiness
+<img width="458" alt="Statistics" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
-- **Sujet:** Mémoire réalisé dans le cadre de ma première année à l'ENSAE Paris : "Etre heureux, c’est un travail à plein temps". Noté 18/20. [Lien vers le projet](https://github.com/arthurdrk/Lien-travail-bonheur).
-- **Outils:** SAS, TeX
+- **Topic:** Research paper conducted during my first year at ENSAE Paris: *"Being happy is a full-time job"*. Awarded 18/20. [Project link](https://github.com/arthurdrk/Lien-travail-bonheur).  
+- **Tools:** SAS, TeX  
+
 ---
-## Prédiction du niveau des nappes phréatiques - Hackathon HI!PARIS
-<img width="300" alt="Suivi" src="https://github.com/user-attachments/assets/5415db5a-984d-482f-9b1c-cc9a9abeb809" />
+## Groundwater Level Prediction – HI!PARIS Hackathon
+<img width="300" alt="Hackathon" src="https://github.com/user-attachments/assets/5415db5a-984d-482f-9b1c-cc9a9abeb809" />
 
-- **Sujet:** Prédiction du niveau des nappes phréatiques en été pour aider les acteurs locaux à gérer leurs stocks d'eau. Projet réalisé en équipe de 6 et en 48h dans le cadre du Hackaton organisé par H!PARIS, l'Institut Polytechnique de Paris et HEC Paris. [Lien vers le projet](https://github.com/arthurdrk/HI-PARIS-Hackaton).
-- **Outils:** Python, Scikit-Learn, TeX
+- **Topic:** Predicting summer groundwater levels to help local stakeholders manage water reserves. Developed in a team of 6 within 48 hours during the hackathon organized by H!PARIS, Institut Polytechnique de Paris, and HEC Paris. [Project link](https://github.com/arthurdrk/HI-PARIS-Hackaton).  
+- **Tools:** Python, Scikit-Learn, TeX  
+
 ---
-# Me Contacter
+# Contact
 
-📧 **Mail** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
+📧 **Email** : [arthur.derouck@ensae.fr](mailto:arthur.derouck@ensae.fr)  
 🔗 **LinkedIn** : [Arthur De Rouck](https://www.linkedin.com/in/arthur-de-rouck-64b4a5221/)  
