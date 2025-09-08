@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 ## Descriptive Statistics with SAS: Relationship Between Work and Happiness
 <img width="458" alt="Statistics" src="https://github.com/user-attachments/assets/b8ffce81-ada1-4c7d-b762-9417bc2b847b" />  
 
-- **Topic:** Research paper conducted during my first year at ENSAE Paris: *"Being happy is a full-time job"*. Awarded 18/20. [Project link](https://github.com/arthurdrk/Lien-travail-bonheur).  
+- **Topic:** Research paper conducted during my first year at ENSAE Paris: *"Being happy is a full-time job"*. **Graded 18/20**. [Project link](https://github.com/arthurdrk/Lien-travail-bonheur).  
 - **Tools:** SAS, TeX  
 
 ---
