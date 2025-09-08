@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
 [TIPE Presentation PDF](https://github.com/user-attachments/files/18725877/Presentation.TIPE.pdf)
 
-- **Topic:** Application of image segmentation using parametric active contour models (Kass et al., *Active Contour Models*) for motion analysis. Awarded a perfect score (20/20) during the French competitive entrance exams for engineering schools. [Project link](https://github.com/arthurdrk/TIPE-active-contours)  
+- **Topic:** Application of image segmentation using parametric active contour models (Kass et al., *Active Contour Models*) for motion analysis. **Awarded a perfect score (20/20)** during the French competitive entrance exams for engineering schools. [Project link](https://github.com/arthurdrk/TIPE-active-contours)  
 - **Tools:** Python, TeX
   
 ---
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 ## Color Grid Game 
 <img width="449" alt="image" src="https://github.com/user-attachments/assets/567d705a-b507-4eb6-805a-6c1a79f5d2b1" />
 
-- **Topic:** Programming project completed during the first-year algorithmics course at ENSAE Paris. Graded 20/20. Grid-based matching game; rules detailed in the README. [Project link](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)  
+- **Topic:** Programming project completed during the first-year algorithmics course at ENSAE Paris. **Graded 20/20**. Grid-based matching game; rules detailed in the README. [Project link](https://github.com/arthurdrk/Jeu-appariement-sur-une-grille)  
 - **Tools:** Python, matplotlib, pygame  
 
 ---
