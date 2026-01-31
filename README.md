@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/17650966-aa2f-42aa-819b-b91d2dd0b3f0
 
 - **SNCF Transilien Challenge:** Train delay prediction. Ranked **4th/413**. Tools: Python, AutoGluon, Scikit-Learn, Pandas [Project link](https://github.com/arthurdrk/SNCF-Data-Challenge).  
 
-- **QRT Challenge:** Overall survival prediction of patients with Acute Myeloid Leukemia. Ranked **139th/437**. Tools: Python, AutoGluon, Scikit-Learn, Pandas [Project link](https://github.com/arthurdrk/QRT-Challenge-2025)  
+- **QRT Challenge:** Overall survival prediction of patients with Acute Myeloid Leukemia. Ranked **1st/635**. Tools: Python, Scikit-Learn, Pandas [Project link](https://github.com/arthurdrk/QRT-Challenge-2025)  
 
 ---
 ## Color Grid Game 
